@@ -16,4 +16,3 @@
   
 
   
-      ![Snake animation](https://github.com/Carlos-Menezes94/Carlos-Menezes94/blob/output/github-contribution-grid-snake.svg)
